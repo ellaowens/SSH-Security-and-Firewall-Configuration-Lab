@@ -1,6 +1,4 @@
-# SSH Security and Firewall Configuration Lab
-
-
+<h1 align="center">SSH Security and Firewall Configuration Lab:</h1>
 
 In this lab, I established an SSH connection from macOS to an Ubuntu server and demonstrated key techniques for securing a Linux system. The lab focused on hardening SSH access by disabling root login, configuring key-based authentication, and restricting access to the server. I also implemented firewall rules using UFW, allowing only necessary services while blocking all other traffic. Additionally, I tested network configurations with tools like Nmap and Netcat to verify security measures. This project highlights my ability to manage secure remote access and configure network security in a Linux environment.
 
@@ -39,7 +37,7 @@ Steps:
     <img width="484" alt="Screenshot 2025-01-12 at 11 32 17 PM" src="https://github.com/user-attachments/assets/4857711a-41e0-4a6c-9d3a-c66e559a5296" />
  ##
 
-**Setting Up Firewall (UFW) on Ubuntu Server**    
+<h3 align="center">Setting Up Firewall (UFW) on Ubuntu Server:</h3>
 
 Steps: 
 
